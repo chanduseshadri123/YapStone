@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: YapStone
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: KeerthiChandu
+Implementation-Vendor-Id: com.example
+Build-Jdk: 1.8.0_31
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/YapStone
+Created-By: Maven Integration for Eclipse
+
